@@ -7,12 +7,8 @@ Este projeto é um script simples de automação de navegador projetado para seg
 * Navega automaticamente para as páginas subsequentes usando o botão "Próximo" (quando disponível).
 * Fornece registros no console para feedback sobre as ações realizadas.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas e Pré-requisitos
 * JavaScript
-
-## Pré-requisitos
-* Um navegador moderno (Chrome, Firefox, etc.).
-* Node.js e npm (ou yarn) não são estritamente necessários para este script específico, pois ele foi projetado para ser executado diretamente no console do navegador. No entanto, essas ferramentas seriam necessárias se você quisesse modificar ou expandir significativamente o script.
 
 ## Instalação
 1. **Nenhuma instalação é necessária** Este script foi projetado para ser executado diretamente no console do navegador em uma página do LinkedIn.
@@ -21,7 +17,7 @@ Este projeto é um script simples de automação de navegador projetado para seg
 4. **Cole e execute:** Cole o código JavaScript copiado no console e pressione Enter.
 
 ## Uso
-1. **Navegue até uma página do LinkedIn** que exiba uma lista de empresas. Certifique-se de estar logado na sua conta do LinkedIn.
+1. **Faça uma pesquisa de empresas do LinkedIn**. Certifique-se de estar logado na sua conta do LinkedIn.
 2. **Abra o console do desenvolvedor do navegador** (F12).
 3. **Cole e execute** o script. O script começará a rolar pelas páginas, clicando nos botões "Seguir" onde estiverem disponíveis. Ele registrará suas ações no console.
 
